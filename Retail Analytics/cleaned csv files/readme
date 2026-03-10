@@ -1,1 +1,10 @@
+Retail Sales Analysis Dataset
+This repository contains a set of cleaned CSV files used for analyzing retail business performance. The data covers customers, products, stores, and sales transactions.
 
+Dataset Overview-
+
+customers_cleaned.csv: Contains customer information such as names, gender, age, region, and signup dates.
+products_cleaned.csv: Lists the items sold, including their category, brand, cost price, and selling price.
+salesdata_cleaned.csv: This is the main file containing all transaction details, including quantities sold, discounts, revenue, and profit for every order.
+stores_cleaned.csv: Provides details about the different store locations, their types (e.g., Flagship, Franchise), and their monthly operating costs.
+returns_cleaned.csv: Tracks which orders were returned and the reason for the return (e.g., defective, wrong item).
