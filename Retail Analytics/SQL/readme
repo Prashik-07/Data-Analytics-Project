@@ -1,1 +1,18 @@
+RetailNova Sales SQL Analysis
+This project uses SQL to analyze a retail business database. It involves creating shortcuts (indexes) for faster searching and writing queries to answer important business questions about sales, profit, and customer behavior.
 
+What this project does:
+
+Database Optimization: Creates indexes on customer IDs, product categories, and order dates to make queries run much faster.
+Profit Tracking: Calculates exactly how much money the business makes on every order.
+Top Performers: Identifies the top 5 customers who bring in the most profit.
+Trend Analysis: Compares monthly profit across different regions over the last two years.
+Product Health: Finds the top 3 most-returned products in every category to help improve quality.
+Customer Loyalty: Calculates how long the most profitable customers have been shopping with the company.
+
+Key SQL Skills Used:
+
+Joins: Combining data from sales, products, stores, and customers.
+Aggregations: Using SUM, COUNT, and AVG to summarize data.
+Window Functions: Using ROW_NUMBER and RANK to find top items.
+Date Functions: Filtering data by time and calculating customer tenure.
