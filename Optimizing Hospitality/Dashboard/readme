@@ -1,1 +1,14 @@
+Hospitality Analysis Dashboard
+This project includes an interactive Power BI Dashboard that transforms raw hotel data into actionable business insights.
 
+Key Features:
+
+Pricing Insights: Visualizes price distributions across different city markets.
+Hotel Segmentation: Categorizes hotels into Budget, Mid-range, and Luxury bands.
+Performance Metrics: Analyzes the relationship between average ratings, discount percentages, and pricing.
+Geographic Analysis: Compares hotel availability and costs across major Indian cities.
+Interactive Filters: Allows users to filter data by city and rating to find the best value-for-money options.
+
+Tools Used:
+Power BI: For data modeling and visualization.
+DAX: Used to create custom measures and calculated columns.
