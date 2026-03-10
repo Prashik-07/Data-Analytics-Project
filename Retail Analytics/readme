@@ -1,1 +1,27 @@
+RetailNova Sales Analysis Project
+This project is a complete data analysis of a retail business. I used Python for cleaning data, SQL for deep analysis, and Power BI to create a visual dashboard.
 
+Project Overview
+The goal of this project is to help "RetailNova" understand their sales, identify their best customers, and find ways to increase profit across different store locations.
+
+What I Did:
+1. Data Cleaning & Exploration (Python)
+Used Pandas to clean raw customer and sales files.
+Fixed missing data and corrected dates.
+Created charts with Seaborn and Matplotlib to see initial sales trends.
+
+2. Advanced Analysis (SQL)
+Wrote complex queries to find the Top 5 most profitable customers.
+Calculated monthly profit trends for the last two years.
+Identified which products are returned most often so the business can improve quality.
+Created Indexes to make the database search much faster.
+
+3. Interactive Dashboard (Power BI)
+Built a visual report to track Revenue, Profit, and Returns.
+Added filters to see performance by Region (North, South, East, West).
+Compared different store types like Flagship stores vs. Online sales.
+
+Key Skills Used:
+Python: Data Wrangling & Visualization.
+SQL: Joins, Window Functions, and Database Optimization.
+Power BI: Data Modeling and Dashboard Design.
