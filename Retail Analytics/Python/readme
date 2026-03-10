@@ -1,1 +1,13 @@
+Retail Sales Data Cleaning & Analysis
 
+Data Cleaning: Removes errors, fixes missing information, and formats dates and numbers correctly.
+Customer Analysis: Groups customers by age and region to see who is shopping the most.
+Product Performance: Analyzes which products and brands are making the most profit.
+Store Comparison: Looks at sales across different store types (like Flagship and Franchise) and compares them to operating costs.
+Sales Trends: Identifies patterns in how and when people buy products.
+
+Tools Used:
+
+Pandas & NumPy: For cleaning and organizing the data.
+Matplotlib & Seaborn: For creating simple charts and graphs.
+Plotly: For interactive data visualizations.
