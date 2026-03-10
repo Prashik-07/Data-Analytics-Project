@@ -1,3 +1,16 @@
-This dataset contains comprehensive hotel listings across India sourced from Yatra. 
-It features key details including hotel names, locations, cities, ratings, and pricing. 
-The data supports exploratory analysis through additional processed fields like price categories and discount percentages, offering insights into the Indian hospitality market and pricing trends.
+Indian Hotels Data Analysis Project -
+This project focuses on collecting and analyzing hotel data from India using web scraping and data science techniques.
+
+Project Overview -
+The goal of this project is to understand the hospitality market in India by looking at hotel prices, ratings, and locations across various cities.
+
+What’s Inside:
+Web Scraping: A Jupyter notebook that uses Selenium and BeautifulSoup to automatically collect real-time hotel data (names, prices, and ratings) from the Yatra website.
+Data Cleaning & EDA: A notebook dedicated to cleaning the raw data, handling missing values, and performing Exploratory Data Analysis (EDA) to find trends, such as price distributions by city.
+Datasets: The repository includes CSV files containing hotel details for several major Indian cities.
+
+Technologies Used:
+Python: The core programming language.
+Selenium & BeautifulSoup: For web scraping.
+Pandas & NumPy: For data manipulation and cleaning.
+Matplotlib & Seaborn: For data visualization.
