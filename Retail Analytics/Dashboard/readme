@@ -1,1 +1,14 @@
+RetailNova Sales Performance Dashboard
+This project features an interactive Power BI Dashboard designed to help a retail business (RetailNova) track its sales, profits, and customer behavior. It turns complex sales data into clear, visual stories.
 
+What’s inside the Dashboard?
+Sales Overview: A high-level view of total revenue, profit margins, and total units sold.
+Customer Insights: Breakdown of who is buying—analyzing customers by age, gender, and region.
+Product Performance: Highlights which brands and product categories (Electronics, Apparel, etc.) are the most profitable.
+Store Comparison: Compares performance across different store types like Flagship, Franchise, and Online stores.
+Return Tracking: Visualizes return rates to identify which products might have quality issues.
+
+Tools Used:
+Power BI: For data modeling and creating the visual reports.
+DAX (Data Analysis Expressions): Used to calculate custom metrics like "Profit Margin %" and "Year-over-Year Growth."
+Cleaned Data: The dashboard is powered by the cleaned retail datasets (Customers, Products, Sales, Stores, and Returns).
