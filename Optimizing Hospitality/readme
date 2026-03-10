@@ -1,1 +1,23 @@
+Indian Hospitality Market Analysis
+A complete data pipeline project: from Web Scraping to Interactive Dashboarding
 
+Project Overview:
+This project provides a deep dive into the Indian hotel industry by analyzing data from Yatra.com. It showcases how raw data can be transformed into meaningful business insights, helping to understand pricing strategies, rating distributions, and market trends across major Indian cities.
+
+The Data Pipeline:
+1. Data Acquisition (Web Scraping)
+Process: Built a custom scraper using Selenium and BeautifulSoup.
+
+Result: Extracted real-time details including Hotel Name, Location, Price, Rating, and Active Discounts.
+
+2. Data Refinement (Cleaning & EDA)
+Cleaning: Handled missing values, removed currency symbols, and converted data types for analysis.
+
+Feature Engineering: Created new categories like Price Bands (Budget, Mid-range, Luxury) to better segment the market.
+
+Analysis: Performed Exploratory Data Analysis (EDA) to find correlations between ratings and pricing.
+
+3. Visual Insights (Power BI Dashboard)
+Interactive Design: Created a dynamic dashboard to visualize key performance indicators (KPIs).
+
+Features: Includes city-wise price comparisons, discount impact analysis, and map-based distributions.
